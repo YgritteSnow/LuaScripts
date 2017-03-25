@@ -1,0 +1,46 @@
+3513 files in [PathData.dat] is loaded.
+149 files in [SkillGfxData.xml] is loaded.
+256 files in [sound_cfg.lua] is loaded.
+810 files in [ECResPath.lua] is loaded.
+no file name!!!!"../../GameSVN/Tools/lualib/?.dll;"|||../../gamesvn/tools/lualib/?.dll;
+========================================================
+Checked in folder[E:/WorkProjects/nine_client/trunk/Output/Configs]:
+file[/badge.lua]:resource[malut.lua] is not defined in resources
+file[/material_data.lua]:resource[matfxv2_buff_blue.prefab.u3dext] is not defined in resources
+file[/coming_soon.lua]:resource[activity.prefab.u3dext] is not defined in resources
+file[/fashion.lua]:resource[animalization_onpelvis_female001.fbx.lua] is not defined in resources
+file[/fashion.lua]:resource[animalization_onpelvis_male001.fbx.lua] is not defined in resources
+file[/shot_mode_cfg.lua]:resource[yjshotmode.prefab.u3dext] is not defined in resources
+file[/function_unlock.lua]:resource[nlmainicon.prefab.u3dext] is not defined in resources
+file[/create_role_cfg.lua]:resource[fashion.lua] is not defined in resources
+file[/elite_monster.lua]:resource[campaign.lua] is not defined in resources
+file[/material_data.lua]:resource[matfxv2_buff_purple.prefab.u3dext] is not defined in resources
+file[/inst_cfg/5009.lua]:resource[lightmapfar-0.exr.u3dext] is not defined in resources
+file[/material_data.lua]:resource[matfxv2_buff_orange.prefab.u3dext] is not defined in resources
+file[/coming_soon.lua]:resource[challengeatlas.prefab.u3dext] is not defined in resources
+file[/material_data.lua]:resource[matfxv2_buff_yellow.prefab.u3dext] is not defined in resources
+file[/inst_cfg/5009.lua]:resource[lightmapfar-1.exr.u3dext] is not defined in resources
+file[/material_data.lua]:resource[matfxv2_ice.prefab.u3dext] is not defined in resources
+file[/blessing_data.lua]:resource[malut.lua] is not defined in resources
+file[/material_data.lua]:resource[matfxv2_levelup_golden.prefab.u3dext] is not defined in resources
+file[/material_data.lua]:resource[hitflash.prefab.u3dext] is not defined in resources
+file[/inst_cfg/5003.lua]:resource[lightmapfar-1.exr.u3dext] is not defined in resources
+file[/guide_loader.lua]:resource[malut.lua] is not defined in resources
+file[/fashion.lua]:resource[feathered_onhead_female001.fbx.lua] is not defined in resources
+file[/inst_cfg/6004.lua]:resource[lightmapfar-2.exr.u3dext] is not defined in resources
+file[/inst_cfg/6004.lua]:resource[lightmapfar-1.exr.u3dext] is not defined in resources
+file[/inst_cfg/6004.lua]:resource[lightmapfar-0.exr.u3dext] is not defined in resources
+file[/npclist.lua]:resource[malut.lua] is not defined in resources
+file[/inst_cfg/5003.lua]:resource[lightmapfar-0.exr.u3dext] is not defined in resources
+file[/shot_mode_cfg.lua]:resource[yjshotmode2.prefab.u3dext] is not defined in resources
+file[/activity_tower.lua]:resource[activitytower.prefab.u3dext] is not defined in resources
+file[/emotions.lua]:resource[malut.lua] is not defined in resources
+file[/inst_cfg/5006.lua]:resource[lightmapfar-1.exr.u3dext] is not defined in resources
+file[/inst_cfg/5006.lua]:resource[lightmapfar-0.exr.u3dext] is not defined in resources
+file[/coming_soon.lua]:resource[skillatlas.prefab.u3dext] is not defined in resources
+file[/fashion.lua]:resource[animalization_onhead_male001.fbx.lua] is not defined in resources
+file[/inst_cfg/5005.lua]:resource[lightmapfar-1.exr.u3dext] is not defined in resources
+file[/inst_cfg/5005.lua]:resource[lightmapfar-0.exr.u3dext] is not defined in resources
+file[/inst_cfg/5004.lua]:resource[lightmapfar-1.exr.u3dext] is not defined in resources
+file[/inst_cfg/5004.lua]:resource[lightmapfar-0.exr.u3dext] is not defined in resources
+[Finished in 4.0s]
